@@ -19,7 +19,7 @@ To be able to use it in your code you will have to place the following line of c
 
 
 ```
-require_once(trailingslashit(dirname(__FILE__)) . 'vendors/did-web/wp-my-autoloader/autoloader.php');
+require_once(trailingslashit(dirname(__FILE__)) . 'vendor/did-web/wp-my-autoloader/autoloader.php');
 
 ```
 
@@ -48,7 +48,7 @@ Um es in Ihrem Code verwenden zu können, müssen Sie die folgende Codezeile in 
 
 
 ```
-require_once(trailingslashit(dirname(__FILE__)) . 'vendors/did-web/wp-my-autoloader/autoloader.php');
+require_once(trailingslashit(dirname(__FILE__)) . 'vendor/did-web/wp-my-autoloader/autoloader.php');
 
 ```
 
@@ -77,7 +77,7 @@ Para poderlo utilizar en tu código tendrás que colocar la siguiente línea de 
 
 
 ```
-require_once(trailingslashit(dirname(__FILE__)) . 'vendors/did-web/wp-my-autoloader/autoloader.php');
+require_once(trailingslashit(dirname(__FILE__)) . 'vendor/did-web/wp-my-autoloader/autoloader.php');
 
 ```
 
