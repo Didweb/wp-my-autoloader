@@ -4,7 +4,7 @@
     "keywords": ["autoloader", "wordpress"],
     "homepage": "https://github.com/Didweb/wp-my-autoloader",
     "type": "library",
-    "license": "GPL-3.0-or-later",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Eduardo Pinuaga Linares",
