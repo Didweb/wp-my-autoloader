@@ -10,6 +10,7 @@
 * @license wp-my-autoloader/LICENSE LGPL-2.1
 * @package wp-my-autolader
 */
+
 spl_autoload_register('showknowledge_autoloader');
 function showknowledge_autoloader($class_name)
 {

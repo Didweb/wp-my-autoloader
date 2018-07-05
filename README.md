@@ -25,12 +25,15 @@ require_once(trailingslashit(dirname(__FILE__)) . 'vendor/did-web/wp-my-autoload
 
 More information on how to use **composer**: [Info Composer](https://getcomposer.org/)
 
+<<<<<<< HEAD
 ## Compatibility
 
 Tested on:
 
 * WordPress 4.9.6
 
+=======
+>>>>>>> 178f0d3ead2f179152b11a4b47c7b98080fb742a
 ---
 
 # WP My Autoloader :de:
@@ -60,12 +63,15 @@ require_once(trailingslashit(dirname(__FILE__)) . 'vendor/did-web/wp-my-autoload
 
 Weitere Informationen zur Verwendung  **composer**: [Info Composer](https://getcomposer.org/)
 
+<<<<<<< HEAD
 ## Kompatibilität
 
 Getestet am:
 
 * WordPress 4.9.6
 
+=======
+>>>>>>> 178f0d3ead2f179152b11a4b47c7b98080fb742a
 ---
 
 # WP My Autoloader :es:
