@@ -18,7 +18,7 @@ function showknowledge_autoloader($class_name)
     }
     $namespace = substr($namespace, 0, -1);
 
-    $filepath  = dirname(dirname(__FILE__)) . '/..'.$namespace.".php";
+    $filepath  = dirname(dirname(__FILE__)) . '/../..'.$namespace.".php";
 
     if (file_exists($filepath)) {
         include_once($filepath);
