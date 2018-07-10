@@ -7,7 +7,7 @@
 * @author Eduardo Pinuaga Linares - Did-web <info@did-web.com>
 * @author http://www.did-web.com
 *
-* @version 1.0.4
+* @version 1.0.5
 * @license wp-my-autoloader/LICENSE LGPL-2.1
 * @package wp-my-autolader
 */
@@ -15,9 +15,9 @@
 spl_autoload_register('wp_my_autoloader');
 function wp_my_autoloader($class_name)
 {
-    $plugin_name= explode('/', plugin_basename(dirname(__FILE__)));
+    $plugin_name= PLUGIN_NAME_AUTOLOADER;
 
-    if (false === strpos($class_name, $plugin_name[0])) {
+    if (false === strpos($class_name, $plugin_name)) {
         return;
     }
 
