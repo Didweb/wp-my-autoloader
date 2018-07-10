@@ -1,6 +1,4 @@
 <?php
-namespace didWeb\wpMyAutoloader;
-
 /**
 * WP My Autoloader
 *
@@ -9,12 +7,12 @@ namespace didWeb\wpMyAutoloader;
 * @author Eduardo Pinuaga Linares - Did-web <info@did-web.com>
 * @author http://www.did-web.com
 *
-* @version 1.0.6
+* @version 1.0.7
 * @license wp-my-autoloader/LICENSE LGPL-2.1
 * @package wp-my-autolader
 */
 
-spl_autoload_register('wp_my_autoloader');
+
 function wp_my_autoloader($class_name)
 {
     $plugin_name= PLUGIN_NAME_AUTOLOADER;
