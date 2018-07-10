@@ -1,4 +1,6 @@
 <?php
+namespace didWeb\wpMyAutoloader;
+
 /**
 * WP My Autoloader
 *
@@ -7,7 +9,7 @@
 * @author Eduardo Pinuaga Linares - Did-web <info@did-web.com>
 * @author http://www.did-web.com
 *
-* @version 1.0.5
+* @version 1.0.6
 * @license wp-my-autoloader/LICENSE LGPL-2.1
 * @package wp-my-autolader
 */

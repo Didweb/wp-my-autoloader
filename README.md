@@ -164,6 +164,7 @@ Probado en:
 
 # Change Log
 
+* 1.0.6 - 2018-7-10 : Namespace
 * 1.0.5 - 2018-7-10 : Plugin name with constant
 * 1.0.4 - 2018-7-5 : Change name function
 * 1.0.3 - 2018-7-5 : More Documentation
